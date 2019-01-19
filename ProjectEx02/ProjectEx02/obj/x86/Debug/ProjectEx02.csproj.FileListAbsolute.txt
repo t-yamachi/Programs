@@ -1,0 +1,5 @@
+C:\Users\taiki\Desktop\git\Programs\ProjectEx02\ProjectEx02\bin\Debug\ProjectEx02.exe
+C:\Users\taiki\Desktop\git\Programs\ProjectEx02\ProjectEx02\bin\Debug\ProjectEx02.pdb
+C:\Users\taiki\Desktop\git\Programs\ProjectEx02\ProjectEx02\obj\x86\Debug\ProjectEx02.csprojResolveAssemblyReference.cache
+C:\Users\taiki\Desktop\git\Programs\ProjectEx02\ProjectEx02\obj\x86\Debug\ProjectEx02.exe
+C:\Users\taiki\Desktop\git\Programs\ProjectEx02\ProjectEx02\obj\x86\Debug\ProjectEx02.pdb

@@ -1,0 +1,5 @@
+C:\Users\taiki\Desktop\git\Programs\Project602\Project602\bin\Debug\Project602.exe
+C:\Users\taiki\Desktop\git\Programs\Project602\Project602\bin\Debug\Project602.pdb
+C:\Users\taiki\Desktop\git\Programs\Project602\Project602\obj\x86\Debug\Project602.csprojResolveAssemblyReference.cache
+C:\Users\taiki\Desktop\git\Programs\Project602\Project602\obj\x86\Debug\Project602.exe
+C:\Users\taiki\Desktop\git\Programs\Project602\Project602\obj\x86\Debug\Project602.pdb

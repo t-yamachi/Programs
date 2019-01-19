@@ -1,0 +1,5 @@
+C:\Users\taiki\Desktop\git\Programs\program\Average\bin\Debug\Average.exe
+C:\Users\taiki\Desktop\git\Programs\program\Average\bin\Debug\Average.pdb
+C:\Users\taiki\Desktop\git\Programs\program\Average\obj\x86\Debug\Average.csprojResolveAssemblyReference.cache
+C:\Users\taiki\Desktop\git\Programs\program\Average\obj\x86\Debug\Average.exe
+C:\Users\taiki\Desktop\git\Programs\program\Average\obj\x86\Debug\Average.pdb

@@ -1,0 +1,5 @@
+C:\Users\taiki\Desktop\git\Programs\Project601\Project601\obj\x86\Debug\Project601.csprojResolveAssemblyReference.cache
+C:\Users\taiki\Desktop\git\Programs\Project601\Project601\bin\Debug\Project601.exe
+C:\Users\taiki\Desktop\git\Programs\Project601\Project601\bin\Debug\Project601.pdb
+C:\Users\taiki\Desktop\git\Programs\Project601\Project601\obj\x86\Debug\Project601.exe
+C:\Users\taiki\Desktop\git\Programs\Project601\Project601\obj\x86\Debug\Project601.pdb
